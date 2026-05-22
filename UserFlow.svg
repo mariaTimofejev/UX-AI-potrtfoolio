@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
+  <rect x="10" y="40" width="120" height="40" fill="lightgray"/>
+  <text x="30" y="65">User</text>
+
+  <line x1="130" y1="60" x2="180" y2="60" stroke="black"/>
+
+  <rect x="180" y="40" width="120" height="40" fill="lightblue"/>
+  <text x="190" y="65">Homepage</text>
+
+  <line x1="300" y1="60" x2="350" y2="60" stroke="black"/>
+
+  <rect x="350" y="40" width="120" height="40" fill="lightgreen"/>
+  <text x="360" y="65">Info</text>
+
+  <line x1="470" y1="60" x2="520" y2="60" stroke="black"/>
+
+  <rect x="520" y="40" width="70" height="40" fill="orange"/>
+  <text x="530" y="65">Goal</text>
+</svg>
