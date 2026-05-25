@@ -15,39 +15,16 @@ UX ja Äriinfotehnoloogia taustaga lõpetaja, kes keskendub kasutajakogemuse ja 
 - Praktilised AI rakendused tootearenduses
 - Õppimine läbi reaalse ehitamise
 
-## Juhtumiuuringud (Case studies)
+# Projektid
 
-### 1. Veebilehe UX parendusprojekt
-**Roll:** UX / UI disainer
+## 1. Kodulehe UX parenduse case study
+UX analüüs ja infoarhitektuuri lihtsustamine veebilehe kasutajakogemuse parandamiseks.
 
-- Analüüsisin olemasoleva veebilehe struktuuri ja kasutusprobleeme
-- Tuvastasin kitsaskohad navigeerimises ja infohierarhias
-- Töötasin välja parema kasutajavoogude loogika ja lihtsama struktuuri
-- Fookus oli sellel, et oluline info oleks kiiremini leitav
+[Vaata projekti](./project-1-website-ux)
 
-**Tulemus:**
-Selgem ja intuitiivsem veebilehe struktuur ning parem navigeerimisloogika.
+---
 
-### 2. (Lisa siia oma teine projekt)
-**Projekti nimi**
+## 2. AI õppimisplatvormi landing page UX redesign
+Landing page ümberkujundamine selgema kasutajavoo ja visuaalse hierarhia loomiseks.
 
-- Lühikirjeldus probleemist
-- Sinu roll
-- Mida tegid
-- Tulemus
-
-## AI minu töövoos
-
-Kasutan AI tööriistu igapäevaselt:
-- koodi kirjutamisel ja parendamisel
-- ideede kiirel testimisel ja valideerimisel
-- probleemide lahendamisel
-- uute tööviiside ja automatiseerimise katsetamisel
-
-Mind huvitab eriti see, kuidas AI saab toetada UX disaini ja digitaalsete toodete arendamist.
-
-## 📫 Kontakt
-
-- E-post: [sinu e-post]
-- LinkedIn: [sinu link]
-- GitHub: [see profiil]
+[Vaata projekti](./project-2-landing-page)
