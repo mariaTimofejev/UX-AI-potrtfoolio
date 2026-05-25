@@ -20,11 +20,7 @@ UX ja Äriinfotehnoloogia taustaga lõpetaja, kes keskendub kasutajakogemuse ja 
 ## 1. Kodulehe UX parenduse case study
 UX analüüs ja infoarhitektuuri lihtsustamine veebilehe kasutajakogemuse parandamiseks.
 
-[Vaata projekti](./project-1-website-ux)
-
 ---
 
 ## 2. AI õppimisplatvormi landing page UX redesign
 Landing page ümberkujundamine selgema kasutajavoo ja visuaalse hierarhia loomiseks.
-
-[Vaata projekti](./project-2-landing-page)
